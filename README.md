@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi, I'm Yonas Kiros Bitew👋
 
-<!--
-**yonas30/yonas30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### AI/ML Engineer | Software Engineer | Research Enthusiast
 
-Here are some ideas to get you started:
+I'm a Computer Science and Engineering graduate passionate about building intelligent systems, solving real-world problems with data, and developing reliable software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My interests span **Artificial Intelligence, Machine Learning, Data Science, and applied research**. I enjoy exploring how algorithms, data, and software engineering can come together to create useful and impactful solutions.
+
+### 🔬 Areas of Interest
+
+- Artificial Intelligence and Machine Learning
+- Data Science and Statistical Learning
+- Natural Language Processing and Healthcare AI
+- Computer Vision and Image Processing
+- Data-Driven Systems and Research
+
+### 🛠️ Technologies & Tools
+
+**Languages:** Python, C, C++
+
+**Data & Machine Learning:** NumPy, Pandas, scikit-learn, TensorFlow, PyTorch
+
+**Development & Research:** Git, GitHub, Jupyter Notebook, Linux
+
+### 🚀 Selected Project Areas
+
+- **Clinical NLP:** Transformer-based medical entity normalization and linking to standardized medical concepts.
+- **Computer Vision:** Vehicle detection, tracking, and speed estimation using Python and OpenCV.
+- **Applied AI Research:** Exploring machine learning methods, data processing pipelines, and model evaluation.
+
+*Project repositories and detailed documentation will be added as the work is published and prepared for sharing.*
+
+### 🎯 Current Goals
+
+- Build robust, reproducible AI and software projects.
+- Strengthen my software engineering and machine learning skills.
+- Explore research opportunities in AI and data-driven systems.
+- Contribute to open-source projects and learn from the developer community.
+
+### 🤝 Let's Connect
+
+I'm interested in connecting with software engineers, AI/ML practitioners, researchers, and people building useful technology.
+
